@@ -1,10 +1,8 @@
 # Mini-SOC: AI-Powered Security Operations Center
 
-![SOC Dashboard Example](<img width="1919" height="1040" alt="Screenshot 2025-10-31 150018" src="https://github.com/user-attachments/assets/2239f6d0-2dc7-4093-a8ad-60d695b884d0" />
+SOC Dashboard Example <img width="1919" height="1040" alt="Screenshot 2025-10-31 150018" src="https://github.com/user-attachments/assets/2239f6d0-2dc7-4093-a8ad-60d695b884d0" />
 <img width="1847" height="954" alt="Screenshot 2025-10-31 150201" src="https://github.com/user-attachments/assets/64089f92-14a3-49a4-a726-dc5ddb69fc23" />
 <img width="1847" height="966" alt="Screenshot 2025-10-31 150257" src="https://github.com/user-attachments/assets/690919f5-975d-4f10-a0a9-16da1b32c0d0" />
-
-) <!-- Replace with actual image if available -->
 
 ## Overview
 
