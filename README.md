@@ -59,8 +59,8 @@ Events flow: Log Tailer → Collector → Analyzer → Responder.
 
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/your-repo/mini-soc.git
-   cd mini-soc
+   git clone https://github.com/NiamaAqarial/SOC_Agents.git
+   cd SOC_Agents
    ```
 
 2. **Install Dependencies**:
